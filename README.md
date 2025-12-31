@@ -140,8 +140,8 @@ AirTrack has been a journey of:
 ## License
 
 - AirTrack is **Proprietary Software**.
-- Redistribution or resale is not permitted without express permission.
-- Your local data belongs entirely to you — we do not collect or access it.
+- Provided for evaluation and demonstration purposes only.
+- Redistribution, modification, or resale is not permitted without express permission.
 
 ---
 
