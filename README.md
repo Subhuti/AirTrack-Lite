@@ -1,8 +1,8 @@
-# ⚠️ AirTrack-Lite is a limited, public demonstration build.
+# ⚠️ AirTrack Lite is a publicly visible demonstration build.
+It is NOT open-source.
 
-This repository does NOT represent the full AirTrack system.
-Client deployments use private repositories.
-
+The full AirTrack system is distributed via private repositories
+to licensed clients only.
 
 # AirTrack 0.9.0 "Orville"
 
