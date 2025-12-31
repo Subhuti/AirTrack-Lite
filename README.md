@@ -62,6 +62,8 @@ You are the Captain.
 
 ## Installation Instructions
 
+AirTrack Lite is intended for evaluation and demonstration purposes and is not a production deployment.
+
 1. Download and unzip the Installer Package.
 2. Open a Terminal inside the unzipped folder.
 3. Make the install script executable:
