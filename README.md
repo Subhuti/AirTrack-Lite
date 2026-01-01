@@ -1,4 +1,4 @@
-# ⚠️ AirTrack Lite is a publicly visible demonstration build.
+# ⚠️ AirTrack Lite is a publicly accesible demonstration build.
 It is NOT open-source.
 
 The full AirTrack system is distributed via private repositories
